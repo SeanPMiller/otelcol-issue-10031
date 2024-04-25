@@ -1,4 +1,4 @@
-# otel-issue-10031
+# otelcol-issue-10031
 
 To reproduce:
 

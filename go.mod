@@ -1,4 +1,4 @@
-module github.com/SeanPMiller/otel-issue-10031
+module github.com/SeanPMiller/otelcol-issue-10031
 
 go 1.22.0
 
