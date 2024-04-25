@@ -8,7 +8,12 @@ receivers:
 exporters:
     nop:
 
+extensions:
+    health_check:
+
 service:
+    extensions:
+      - health_check
     pipelines:
         metrics:
             receivers:
